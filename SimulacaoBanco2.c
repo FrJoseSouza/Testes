@@ -2,6 +2,7 @@
 // Obs1: Programa Feito em 3 dias, pois o email estava em spam então não recebi o link do projeto no começo
 // Obs2: Programa não funciona muito bem em compiladores de site (avisando caso ele seja testado em um)
 // Obs3: Programa testado apenas em Linux
+// TESTE ATT PROGRAMA: 2
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
